@@ -1,0 +1,6 @@
+C:\Users\elanu\Documents\GitHub\robotistan\robotistan\obj\Debug\net461\robotistan.csprojAssemblyReference.cache
+C:\Users\elanu\Documents\GitHub\robotistan\robotistan\obj\Debug\net461\robotistan.exe.config
+C:\Users\elanu\Documents\GitHub\robotistan\robotistan\obj\Debug\net461\robotistan.RazorAssemblyInfo.cache
+C:\Users\elanu\Documents\GitHub\robotistan\robotistan\obj\Debug\net461\robotistan.RazorAssemblyInfo.cs
+C:\Users\elanu\Documents\GitHub\robotistan\robotistan\obj\Debug\net461\robotistan.AssemblyInfoInputs.cache
+C:\Users\elanu\Documents\GitHub\robotistan\robotistan\obj\Debug\net461\robotistan.AssemblyInfo.cs
