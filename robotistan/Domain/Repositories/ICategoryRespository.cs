@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace robotistan.Domain.Repositories
 {
-	interface ICategoryRespository
+	public interface ICategoryRespository
 	{
 		Task<IEnumerable<Category>> ListAsync();
 	}

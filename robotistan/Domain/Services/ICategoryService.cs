@@ -6,7 +6,7 @@ using robotistan.Domain.Models;
 
 namespace robotistan.Domain.Services
 {
-	interface ICategoryService
+	public interface ICategoryService
 	{
 		Task<IEnumerable<Category>> ListAsync();
 	}
